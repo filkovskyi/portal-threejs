@@ -11,8 +11,10 @@ npm install
 # Run the local server at localhost:8080
 npm run dev
 
-# Build for production in the dist/ directory
+# Build for production in the public/ directory
 npm run build
 ```
 # portal-threejs
-# portal-threejs
+
+
+[Check threeJs experience](https://38-importing-and-optimizing-the-scene.vercel.app/)
