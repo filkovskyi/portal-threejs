@@ -20,8 +20,13 @@ const debugObject = {
     sizes: 215
 }
 const gui = new dat.GUI({
-    width: 400
+    width: 400,
+    _closed: true
 })
+
+
+gui.close()
+
 
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
